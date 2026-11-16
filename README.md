@@ -2,6 +2,8 @@
 
 Aquest repositori conté el codi de la plataforma web del Museu Online d'Art Digital. Si t'interessa col·laborar en aquest projecte, envia'm un mail a moad@imcarl.es!
 
+[El projecte està arxivat i accessible ací.](https://moad.netlify.app/)
+
 # Què és el MOAD?
 
 El Museu Online d'Art Digital vol ser una institució lliure, oberta i gratuïta al servei d'artistes, investigadors i curadors. Busca crear un espai ideal a l'artista digital per a exposar la seua obra i una plataforma útil per a l'exposició, conservació i organització de l'art digital. 
